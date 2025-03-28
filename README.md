@@ -13,6 +13,8 @@ Database:
 If the project uses a database (optional):
 Import the provided .sql file using phpMyAdmin.
 Update DB credentials inside PHP files (e.g., login.php, process_booking.php).
+
+
 🔐 Login Details
 Login functionality is included, use:
 
