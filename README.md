@@ -8,7 +8,7 @@ Setup:
 Place the entire OneStop folder into htdocs inside your XAMPP directory.
 Start Apache using the XAMPP control panel.
 In your browser, go to:
-http://localhost/OneStop/index.html
+http://localhost/W25_T31_OneStop/index.html
 Database:
 If the project uses a database (optional):
 Import the provided .sql file using phpMyAdmin.
